@@ -1,4 +1,4 @@
-# fluttercustompaint
+# Flutter CustomPaint Widget
 
 In this project you will see how to use custompaint widget in your flutter application and also show you how to mixin some animation with it. You can also find the related video on my youtube channel - https://www.youtube.com/watch?v=nq_1thqa1jg
 
