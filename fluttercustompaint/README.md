@@ -1,16 +1,12 @@
 # fluttercustompaint
 
-A new Flutter project.
+In this project you will see how to use custompaint widget in your flutter application and also show you how to mixin some animation with it. You can also find the related video on my youtube channel - https://www.youtube.com/watch?v=nq_1thqa1jg
 
-## Getting Started
+For more details on Animation, please watch my Video series on Animation Basics https://www.youtube.com/watch?v=WTi08VBxaGY here.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+FOLLOW ME HERE:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+Facebook: https://www.facebook.com/whatsupcoders
+Twitter: https://www.twitter.com/whatsupcoders
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
